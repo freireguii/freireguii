@@ -1,4 +1,4 @@
-### Oi eu sou o Guilherme, seja bem-vindo ao meu GitHub :)
+### Oi, eu sou o Guilherme - WELCOME TO MY GitHub :D
 
 - 👋 Hi, I’m @freireguii, my real name is Guilherme, and i live in Brazil, in the state of Rio Grande do Sul.
 - 👀 I’m interested in Front-End, but i want to be a Full-Stack soon;
