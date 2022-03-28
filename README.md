@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @freireguii, my real name is Guilherme, and i live in Brazil, exactly in the state of Rio Grande do Sul.
+### Oi eu sou o Guilherme, seja bem-vindo ao meu GitHub :)
+
+- 👋 Hi, I’m @freireguii, my real name is Guilherme, and i live in Brazil, in the state of Rio Grande do Sul.
 - 👀 I’m interested in Front-End, but i want to be a Full-Stack soon;
 - 💞️ I’m looking to collaborate on projects envolving HTML, CSS and Javascript, in this moment a want to do some challanges of the Frontend Mentor (to desenvolve my skills) and collaborate with the comunity;
 
